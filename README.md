@@ -12,7 +12,8 @@
 * **Team Members:** 
   * [Buyuan.Yi], [Haoyuan.Zhang], [Haozhe.Xue], [Jiacheng.Liu2302], [Weiqi.Huo], [Xueqina.Liu], [Yuchen.Zou]
   * **Pathfinder:** Steven
-  * DevLog Link:https://xjtlums-my.sharepoint.com/:w:/g/personal/jiacheng_liu2302_student_xjtlu_edu_cn/IQAisfzRC1qgQIfpRAuYIZU2AdTUbwh5vSQ3mYRb5CFOnr0?e=gilhGh
+  * **DevLog Link:**
+  * https://xjtlums-my.sharepoint.com/:w:/g/personal/jiacheng_liu2302_student_xjtlu_edu_cn/IQAisfzRC1qgQIfpRAuYIZU2AdTUbwh5vSQ3mYRb5CFOnr0?e=gilhGh
 
 ---
 
