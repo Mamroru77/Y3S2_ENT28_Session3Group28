@@ -43,7 +43,11 @@ Based on our intensive development over the first 3-4 weeks, our current Web MVP
 | :--- | :---: | :--- | :--- |
 | **Week 3** | 🟢 **On Track** | Problem Framing defined. Initial user pain-point survey conducted among XJTLU students. | Determined core 5-8 matching indicators. |
 | **Week 4** | 🟢 **On Track** | Completed Sprint 1 MVP Web App (Next.js). Implemented the Weighted Compatibility Algorithm and UI layout. | Preparing for the next round of User Validation with the live prototype. |
-| **Week 5** | 🟡 **Warning** | Planned: Mobile responsiveness & Real backend integration (Database). | *Pending*: Need to transition mock data to a live database. |
+| **Week 5** | 🟢 **On Track** | Planned: Mobile responsiveness & Real backend integration (Database). | *Pending*: Need to transition mock data to a live database. |
+| **Week 6** | 🟢 **On Track** | Defined core product features, drafted the problem statement, and integrated the "Smart Dorm Contract Generator" into the MVP. | Prioritized a "Habit-First" matching engine based on evidence. Addressed the challenge of the rigid university dorm system by providing an adjustment framework for students. |
+| **Week 7** | 🟢 **On Track** | Implemented deeper backend logic, refined UX for the Contract Generator, and conducted user validation with 5 additional students. | Shifted matching results to a detailed "Conflict Report". High API latency caused issues; resolved by implementing skeleton loading states and toast notifications. |
+| **Week 8** | 🟢 **On Track** | Deployed the final stable version to Vercel, completed IP strategy documentation, recorded the product demo video, and created the pitch deck. | Shifted revenue model from C-end subscription to B-end licensing for schools. Addressed testers' "Privacy Anxiety" by adding Privacy Badges and clear data disclaimers. |
+
 
 ---
 
